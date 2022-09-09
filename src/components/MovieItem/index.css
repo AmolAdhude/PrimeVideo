@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.popup-content {
+  margin: 20px;
+  background: rgb(255, 255, 255);
+  width: 50%;
+  padding: 5px;
+  border-radius: 10px;
+}
+.close-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin: 10px;
+}
+
+.close-icon {
+  font-size: 24px;
+  color: grey;
+}
+.player-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
